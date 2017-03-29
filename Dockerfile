@@ -1,3 +1,4 @@
+#version 1.2
 FROM debian:jessie
 
 WORKDIR /home
